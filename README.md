@@ -46,8 +46,4 @@ The **State Diagram Matrix** models the potential states of the OBC subsystem th
 
 ## Contributing
 
-If you would like to contribute to this repository, please feel free to fork the repository and submit a pull request with your changes. Contributions should align with the overall goals of the **Integrated Space Programme** and the ongoing **PDR**.
-
 ## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
