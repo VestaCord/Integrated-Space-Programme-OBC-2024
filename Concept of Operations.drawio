@@ -164,6 +164,9 @@
             <mxPoint x="153.33333333333334" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WgPyda2361uFBX1S1SH9-40" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;This File is not Live&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Most recent version can always be found at https://github.com/VestaCord/Integrated-Space-Programme-OBC-2024/blob/main/Concept%20of%20Operations.drawio&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="50" width="242.56" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
