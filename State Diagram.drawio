@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.1">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="3816" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2613" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -648,6 +648,9 @@
         </mxCell>
         <mxCell id="3gW7RZxNbm79vIqXbMl1-359" value="INITIALIZATION" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1704" y="280.0000000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-382" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;This file is not live&lt;/h1&gt;&lt;div&gt;To see the updated file, look at https://github.com/VestaCord/Integrated-Space-Programme-OBC-2024/blob/main/State%20Diagram.drawio&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="80" width="250" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
