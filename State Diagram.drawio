@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="2460" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2757" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-381" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="240" width="770" height="530" as="geometry" />
-        </mxCell>
         <mxCell id="3gW7RZxNbm79vIqXbMl1-349" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="240" width="690" height="120" as="geometry" />
+          <mxGeometry x="670" y="240" width="810" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2" value="State Diagrams" style="whiteSpace=wrap;rounded=1;shadow=1;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24" parent="1" vertex="1">
           <mxGeometry x="600" y="40" width="340" height="60" as="geometry" />
@@ -18,9 +15,6 @@
         </mxCell>
         <mxCell id="4" value="Power State" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="930" y="169.9999999999998" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="Mode Transition" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="1694" y="169.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="AUTONOMOUS (LEOP)" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-286" y="300.0000000000001" width="120" height="60" as="geometry" />
@@ -76,7 +70,7 @@
             <mxPoint x="-286" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="okZRFjJUtCZdeWKM-PSu-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3gW7RZxNbm79vIqXbMl1-321" target="okZRFjJUtCZdeWKM-PSu-117">
+        <mxCell id="okZRFjJUtCZdeWKM-PSu-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-321" target="okZRFjJUtCZdeWKM-PSu-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-627" y="400" as="targetPoint" />
           </mxGeometry>
@@ -120,69 +114,6 @@
             <mxPoint x="1101" y="490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-362" value="&lt;div&gt;Report LEOP&lt;/div&gt;&lt;div&gt;status&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-353" target="3gW7RZxNbm79vIqXbMl1-354" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-353" value="AUTONOMOUS (LEOP)" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1704" y="383.0000000000001" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-354" target="3gW7RZxNbm79vIqXbMl1-353" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-364" value="More configuration required" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3gW7RZxNbm79vIqXbMl1-363" vertex="1" connectable="0">
-          <mxGeometry x="0.0925" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-365" value="LEOP accomplished successfully" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-354" target="3gW7RZxNbm79vIqXbMl1-355" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-354" value="CONTACT (LEOP)" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="383.0000000000001" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-355" target="3gW7RZxNbm79vIqXbMl1-358" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-367" value="Downlink and TTnC needed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-355" target="3gW7RZxNbm79vIqXbMl1-356" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-355" target="3gW7RZxNbm79vIqXbMl1-357" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-375" value="Have memory to continue without downlinking" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3gW7RZxNbm79vIqXbMl1-369" vertex="1" connectable="0">
-          <mxGeometry x="0.643" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-355" value="AUTONOMOUS" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="540.0000000000001" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-374" value="&lt;div&gt;Command to&lt;/div&gt;&lt;div&gt;resume mission&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-356" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1700" y="679.6666666666667" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-356" value="CONTACT" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="650.0000000000001" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-357" value="MISSION" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1704" y="650.0000000000001" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-361" value="&lt;div&gt;Receive command&lt;/div&gt;&lt;div&gt;begin LEOP&lt;br&gt;&lt;/div&gt;&lt;div&gt;or other trigger&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-358" target="3gW7RZxNbm79vIqXbMl1-353" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-376" value="Command to exit standby" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-358" target="3gW7RZxNbm79vIqXbMl1-355" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-358" value="POWER SAVING MODE" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="383.0000000000001" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-360" value="&lt;div&gt;Successful boot, report status&lt;/div&gt;&lt;div&gt;Wait for further commands&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3gW7RZxNbm79vIqXbMl1-359" target="3gW7RZxNbm79vIqXbMl1-358" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3gW7RZxNbm79vIqXbMl1-359" value="INITIALIZATION" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1704" y="280.0000000000001" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3gW7RZxNbm79vIqXbMl1-382" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;This file is not live&lt;/h1&gt;&lt;div&gt;To see the updated file, look at https://github.com/VestaCord/Integrated-Space-Programme-OBC-2024/blob/main/State%20Diagram.drawio&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-460" y="80" width="250" height="120" as="geometry" />
         </mxCell>
@@ -198,14 +129,14 @@
         <mxCell id="rphJwX7ek46KxyhLtNXw-238" value="PAYLOAD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="960" y="280" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rphJwX7ek46KxyhLtNXw-239" value="&lt;div&gt;OBC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="rphJwX7ek46KxyhLtNXw-239" value="&lt;div&gt;OBC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1090" y="280" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rphJwX7ek46KxyhLtNXw-240" value="TTNC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1220" y="280" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rphJwX7ek46KxyhLtNXw-253" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="370" width="690" height="120" as="geometry" />
+          <mxGeometry x="670" y="370" width="810" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rphJwX7ek46KxyhLtNXw-254" value="POWER STATE - NORMAL MODE (AUTONOMOUS)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="380" width="440" height="30" as="geometry" />
@@ -222,11 +153,11 @@
         <mxCell id="rphJwX7ek46KxyhLtNXw-258" value="&lt;div&gt;OBC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1090" y="410" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rphJwX7ek46KxyhLtNXw-259" value="TTNC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="rphJwX7ek46KxyhLtNXw-259" value="TTNC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1220" y="410" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rphJwX7ek46KxyhLtNXw-260" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="630" width="690" height="120" as="geometry" />
+          <mxGeometry x="670" y="630" width="810" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rphJwX7ek46KxyhLtNXw-261" value="POWER STATE - HIGH MODE (MISSION)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="640" width="440" height="30" as="geometry" />
@@ -247,7 +178,7 @@
           <mxGeometry x="1220" y="670" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rphJwX7ek46KxyhLtNXw-273" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="500" width="690" height="120" as="geometry" />
+          <mxGeometry x="670" y="500" width="810" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rphJwX7ek46KxyhLtNXw-274" value="POWER STATE - NORMAL MODE (CONTACT)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="510" width="440" height="30" as="geometry" />
@@ -267,26 +198,110 @@
         <mxCell id="rphJwX7ek46KxyhLtNXw-279" value="ADCS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="830" y="540" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="okZRFjJUtCZdeWKM-PSu-117" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;When the satellite first turns on.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Initialize all needed processes, perform housekeeping,including calibration.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="okZRFjJUtCZdeWKM-PSu-117" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;When the satellite first turns on.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Initialize all needed processes, perform housekeeping,including calibration.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-720" y="390" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="okZRFjJUtCZdeWKM-PSu-118" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;When EPS reaching CO voltage.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Shut off everything. (Namely GPS, Magnetorquers). Condition exits only when voltage acceptable or override command received.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="okZRFjJUtCZdeWKM-PSu-118" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;When EPS reaching CO voltage.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Shut off everything. (Namely GPS, Magnetorquers). Condition exits only when voltage acceptable or override command received.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-511" y="390" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="okZRFjJUtCZdeWKM-PSu-119" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;During LEOP after initialization&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Rely on onboard systems to make decisions, perform maneuvers, and deploy solar panels, orienting antennas etc checking health until full ground control is re-established.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="okZRFjJUtCZdeWKM-PSu-119" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;During LEOP after initialization&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Rely on onboard systems to make decisions, perform maneuvers, and deploy solar panels, orienting antennas etc checking health until full ground control is re-established.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-321" y="390" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="okZRFjJUtCZdeWKM-PSu-120" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;During LEOP after initialization, when communication with ground is intermittent or delayed.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Maintain basic operations and health checks autonomously while awaiting stable contact with mission control.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="okZRFjJUtCZdeWKM-PSu-120" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;During LEOP after initialization, when communication with ground is intermittent or delayed.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Maintain basic operations and health checks autonomously while awaiting stable contact with mission control.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-121" y="390" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="okZRFjJUtCZdeWKM-PSu-121" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;When the system must operate independently without human intervention.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Perform tasks, make decisions, and adjust to changes using onboard sensors and algorithms.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="okZRFjJUtCZdeWKM-PSu-121" value="&lt;div&gt;CONDITION:&lt;/div&gt;&lt;div&gt;When the system must operate independently without human intervention.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DESCRIPTION:&lt;/div&gt;&lt;div&gt;Perform tasks, make decisions, and adjust to changes using onboard sensors and algorithms.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="69" y="390" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="okZRFjJUtCZdeWKM-PSu-122" value="&lt;p&gt;CONDITION:&lt;br&gt;When communication with ground control is established.&lt;/p&gt;&lt;p&gt;DESCRIPTION:&lt;br&gt;Enable real-time monitoring, command execution, and data exchange with mission control.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="okZRFjJUtCZdeWKM-PSu-122" value="&lt;p&gt;CONDITION:&lt;br&gt;When communication with ground control is established.&lt;/p&gt;&lt;p&gt;DESCRIPTION:&lt;br&gt;Enable real-time monitoring, command execution, and data exchange with mission control.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="259" y="390" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="okZRFjJUtCZdeWKM-PSu-123" value="&lt;p&gt;CONDITION:&lt;br&gt;After LEOP and when in operational orbit or position.&lt;/p&gt;&lt;p&gt;DESCRIPTION:&lt;br&gt;Execute planned mission objectives, with full control from mission operators and autonomous support systems.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="okZRFjJUtCZdeWKM-PSu-123" value="&lt;p&gt;CONDITION:&lt;br&gt;After LEOP and when in operational orbit or position.&lt;/p&gt;&lt;p&gt;DESCRIPTION:&lt;br&gt;Execute planned mission objectives, with full control from mission operators and autonomous support systems.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="459" y="390" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jbhtjiREiRtmAPfSNycT-104" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1530" y="169.9999999999998" width="770" height="600.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-381" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="jbhtjiREiRtmAPfSNycT-104" vertex="1">
+          <mxGeometry y="70.0000000000002" width="770" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Mode Transition" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="jbhtjiREiRtmAPfSNycT-104" vertex="1">
+          <mxGeometry x="314" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-362" value="&lt;div&gt;Report LEOP&lt;/div&gt;&lt;div&gt;status&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-353" target="3gW7RZxNbm79vIqXbMl1-354" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-353" value="AUTONOMOUS (LEOP)" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="jbhtjiREiRtmAPfSNycT-104" vertex="1">
+          <mxGeometry x="324" y="213.0000000000003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-354" target="3gW7RZxNbm79vIqXbMl1-353" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-364" value="More configuration required" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3gW7RZxNbm79vIqXbMl1-363" vertex="1" connectable="0">
+          <mxGeometry x="0.0925" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-365" value="LEOP accomplished successfully" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-354" target="3gW7RZxNbm79vIqXbMl1-355" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-354" value="CONTACT (LEOP)" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="jbhtjiREiRtmAPfSNycT-104" vertex="1">
+          <mxGeometry x="90" y="213.0000000000003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-355" target="3gW7RZxNbm79vIqXbMl1-358" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-367" value="Downlink and TTnC needed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-355" target="3gW7RZxNbm79vIqXbMl1-356" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-355" target="3gW7RZxNbm79vIqXbMl1-357" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-375" value="Have memory to continue without downlinking" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3gW7RZxNbm79vIqXbMl1-369" vertex="1" connectable="0">
+          <mxGeometry x="0.643" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-355" value="AUTONOMOUS" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="jbhtjiREiRtmAPfSNycT-104" vertex="1">
+          <mxGeometry x="90" y="370.00000000000034" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-374" value="&lt;div&gt;Command to&lt;/div&gt;&lt;div&gt;resume mission&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-356" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="509.66666666666697" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-356" value="CONTACT" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="jbhtjiREiRtmAPfSNycT-104" vertex="1">
+          <mxGeometry x="90" y="480.00000000000034" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-357" value="MISSION" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="jbhtjiREiRtmAPfSNycT-104" vertex="1">
+          <mxGeometry x="324" y="480.00000000000034" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-361" value="&lt;div&gt;Receive command&lt;/div&gt;&lt;div&gt;begin LEOP&lt;br&gt;&lt;/div&gt;&lt;div&gt;or other trigger&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-358" target="3gW7RZxNbm79vIqXbMl1-353" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-376" value="Command to exit standby" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-358" target="3gW7RZxNbm79vIqXbMl1-355" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-358" value="POWER SAVING MODE" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="jbhtjiREiRtmAPfSNycT-104" vertex="1">
+          <mxGeometry x="580" y="213.0000000000003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-360" value="&lt;div&gt;Successful boot, report status&lt;/div&gt;&lt;div&gt;Wait for further commands&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="jbhtjiREiRtmAPfSNycT-104" source="3gW7RZxNbm79vIqXbMl1-359" target="3gW7RZxNbm79vIqXbMl1-358" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gW7RZxNbm79vIqXbMl1-359" value="INITIALIZATION" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="jbhtjiREiRtmAPfSNycT-104" vertex="1">
+          <mxGeometry x="324" y="110.00000000000031" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbhtjiREiRtmAPfSNycT-108" value="&lt;div&gt;GPS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="280" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbhtjiREiRtmAPfSNycT-110" value="&lt;div&gt;GPS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="410" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbhtjiREiRtmAPfSNycT-111" value="&lt;div&gt;GPS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbhtjiREiRtmAPfSNycT-112" value="&lt;div&gt;GPS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="670" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
